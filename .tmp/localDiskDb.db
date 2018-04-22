@@ -2,48 +2,62 @@
   "data": {
     "cuisines": [
       {
-        "id": 1,
         "name": "Asian",
         "icon": "asian.svg",
-        "altText": "Noodles Icon"
+        "altText": "Noodles Icon",
+        "createdAt": "2017-07-25T02:26:54.985Z",
+        "updatedAt": "2017-07-26T02:26:54.985Z",
+        "id": 1
       },
       {
-        "id": 2,
         "name": "Pizza",
         "icon": "pizza.svg",
-        "altText": "Pizza Icon"
+        "altText": "Pizza Icon",
+        "createdAt": "2017-07-25T02:26:54.985Z",
+        "updatedAt": "2017-07-26T02:26:54.985Z",
+        "id": 2
       },
       {
-        "id": 3,
         "name": "American",
         "icon": "american.svg",
-        "altText": "Hot Dog Icon"
+        "altText": "Hot Dog Icon",
+        "createdAt": "2017-07-25T02:26:54.985Z",
+        "updatedAt": "2017-07-26T02:26:54.985Z",
+        "id": 3
       },
       {
-        "id": 4,
         "name": "Mexican",
         "icon": "mexican.svg",
-        "altText": "Wrap Icon"
+        "altText": "Wrap Icon",
+        "createdAt": "2017-07-25T02:26:54.985Z",
+        "updatedAt": "2017-07-26T02:26:54.985Z",
+        "id": 4
       }
     ],
     "neighborhoods": [
       {
-        "id": 1,
         "name": "Manhattan",
         "icon": "manhattan.svg",
-        "altText": "Sky Line Icon"
+        "altText": "Sky Line Icon",
+        "createdAt": "2017-07-25T02:26:54.985Z",
+        "updatedAt": "2017-07-26T02:26:54.985Z",
+        "id": 1
       },
       {
-        "id": 2,
         "name": "Brooklyn",
         "icon": "brooklyn.svg",
-        "altText": "Bridge Icon"
+        "altText": "Bridge Icon",
+        "createdAt": "2017-07-25T02:26:54.985Z",
+        "updatedAt": "2017-07-26T02:26:54.985Z",
+        "id": 2
       },
       {
-        "id": 3,
         "name": "Queens",
         "icon": "brooklyn.svg",
-        "altText": "Train Icon"
+        "altText": "Train Icon",
+        "createdAt": "2017-07-25T02:26:54.985Z",
+        "updatedAt": "2017-07-26T02:26:54.985Z",
+        "id": 3
       }
     ],
     "restaurants": [
@@ -87,7 +101,7 @@
           }
         ],
         "createdAt": "2017-07-25T02:26:54.985Z",
-        "updatedAt": "2017-07-25T02:26:54.985Z",
+        "updatedAt": "2017-07-26T02:26:54.985Z",
         "id": 1
       },
       {
